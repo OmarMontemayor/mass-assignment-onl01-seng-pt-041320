@@ -1,4 +1,4 @@
 class Person
   #your code here
-  attr
+  def initialize(info_hash)
 end
